@@ -1,3 +1,6 @@
+<img src=”https://github.com/Deniskaponchik/Deniskaponchik/blob/main/Banner1.png?raw=true" alt=”my banner”>
+
+
 ### Hi there 👋
 
 <!--
